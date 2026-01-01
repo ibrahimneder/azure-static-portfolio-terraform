@@ -1,0 +1,4 @@
+name: Terraform Plan (Disabled)
+
+on:
+  workflow_dispatch:
